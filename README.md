@@ -19,13 +19,13 @@ and handling user interactions efficiently.
 
 ## Output
 
-<img width="557" height="334" alt="image" src="https://github.com/user-attachments/assets/a2b60430-22d3-486a-9d7e-115fffa720e2" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a2b60430-22d3-486a-9d7e-115fffa720e2" />
 
-<img width="508" height="457" alt="image" src="https://github.com/user-attachments/assets/145cd238-71f3-40ac-9667-27fa484ea21e" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/145cd238-71f3-40ac-9667-27fa484ea21e" />
 
-<img width="579" height="296" alt="image" src="https://github.com/user-attachments/assets/d2a5b6c0-adf1-44ff-9838-7f78d9e98b98" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d2a5b6c0-adf1-44ff-9838-7f78d9e98b98" />
 
-<img width="538" height="257" alt="image" src="https://github.com/user-attachments/assets/bfe85e34-c0c1-4f12-9e87-cf081eaebfc3" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/bfe85e34-c0c1-4f12-9e87-cf081eaebfc3" />
 
 
 
