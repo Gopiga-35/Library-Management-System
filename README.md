@@ -8,8 +8,6 @@ and handling user interactions efficiently.
 - Add new books to the library
 - View available book details
 - Search books by ISBN
-- Simple and user-friendly interface
-- Organized and maintainable code structure
 
 ## Technologies Used
 - Java
@@ -17,4 +15,4 @@ and handling user interactions efficiently.
 - JDBC
 - HTML / CSS
 - Apache Tomcat
-- MySQL / Oracle Database
+- Oracle Database
