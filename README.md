@@ -9,13 +9,6 @@ and handling user interactions efficiently.
 - View available book details
 - Search books by ISBN
 
-## Technologies Used
-- Java
-- Servlets & JSP
-- JDBC
-- HTML / CSS
-- Apache Tomcat
-- Oracle Database
 
 ## Output
 
